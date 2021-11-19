@@ -1,0 +1,3 @@
+-> Templating Engine: Jinja2
+-> Run App Command: "python app.js"
+-> Run ".\env\Scripts\activate.ps1" to enter virtual environment
